@@ -1,0 +1,7 @@
+C:\Users\motya\source\repos\binary search\binary search\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\motya\source\repos\binary search\binary search\obj\Debug\ConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\motya\source\repos\binary search\binary search\bin\Debug\binary search.exe.config
+C:\Users\motya\source\repos\binary search\binary search\bin\Debug\binary search.exe
+C:\Users\motya\source\repos\binary search\binary search\bin\Debug\binary search.pdb
+C:\Users\motya\source\repos\binary search\binary search\obj\Debug\binary search.exe
+C:\Users\motya\source\repos\binary search\binary search\obj\Debug\binary search.pdb
